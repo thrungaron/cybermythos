@@ -2,3 +2,7 @@ baseURL = 'https://cybermythos.org/'
 locale = 'en-us'
 title = 'Cybermythos'
 theme = 'terminal'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

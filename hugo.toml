@@ -1,0 +1,4 @@
+baseURL = 'https://cybermythos.org/'
+locale = 'en-us'
+title = 'Cybermythos'
+theme = 'terminal'

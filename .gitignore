@@ -12,5 +12,6 @@
 Thumbs.db
 
 # Optional editor settings
+*.code-workspace
 .vscode/
 .idea/
